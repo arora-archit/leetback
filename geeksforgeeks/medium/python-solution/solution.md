@@ -8,26 +8,16 @@
 
 ## Solution
 
-```text
-import java.util.ArrayList;
+```javascript
+// User function Template for javascript
+/**
+ * @param {number[]} arr
+ * @param {number} target
+ * @returns {number[]}
+ */
 class Solution {
-    static ArrayList<Integer> subarraySum(int[] arr, int target) {
-        ArrayList<Integer> result = new ArrayList<Integer>();
-        for (int i = 0; i < arr.length; i++) {
-            int sum = 0;
-            for (int j = i; j < arr.length; j++) {
-                sum += arr[j];
-                if (sum == target) {
-                    result.add(i + 1); 
-                    result.add(j + 1); 
-                    return result;
-                } else if (sum > target) {
-                    break;
-                }
-            }
-        }
-        result.add(-1);
-        return result;
+    subarraySum(arr, target) {
+        // code here
     }
 }
 ```
