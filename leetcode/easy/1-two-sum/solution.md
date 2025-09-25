@@ -3,7 +3,7 @@
 ## Problem Information
 - **Platform:** Leetcode
 - **Difficulty:** Easy
-- **URL:** https://leetcode.com/problems/two-sum/submissions/1782536710/
+- **URL:** https://leetcode.com/problems/two-sum/submissions/1782541659/
 - **Date:** 2025-09-25
 
 ## Solution
