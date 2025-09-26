@@ -4,7 +4,7 @@
 - **Platform:** Geeksforgeeks
 - **Difficulty:** Easy
 - **URL:** https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1
-- **Date:** 2025-09-25
+- **Date:** 2025-09-26
 
 ## Solution
 
